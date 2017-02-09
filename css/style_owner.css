@@ -1,0 +1,383 @@
+body {
+    background-color: #201095;
+}
+
+.body {
+      padding-top: 120px;
+      padding-bottom: 40px;
+      background-color: #0A0537;
+}
+
+.bodyColor {
+    background-color:#0A0537
+}
+
+.navBarColor {
+    background-color: #CFCFD3;
+    border-color: #C4C0C0;
+}
+
+.logo {
+	width: 50px;
+	height: 40px;
+	margin-top: -7px;
+    margin-left: 1%;
+}
+
+.logo-main {
+    text-align: center;
+    font-size: 42px;
+    color: #AAA4A4;
+}
+
+.logo-second {
+    text-align: center;
+    font-size: 30px;
+    color: #098ADA;
+}
+
+.listProductsExhausted {
+    background-color: #DA2C0C;
+    color: #FFF;
+}
+
+.usersConnected {
+    background-color: #E17906;
+    color: #FFF;
+}
+
+.primary {
+    background-color: #337ab7;
+    color: #FFF;   
+}
+
+.xs-35 {
+    font-size: 35px;
+}
+
+.mrg-image {
+    margin-top: 5px;
+}
+
+.panel-cash {
+    border-color: #139213;
+    color: #FFF;
+    background-color: #139213;
+}
+
+.a2 {
+    color: #139213;
+}
+
+.panel-user {
+    border-color: #E17906;
+    color: #FFF;
+    background-color: #E17906;
+}
+
+.a3 {
+    color: #E17906;
+}
+
+.panel-agotado {
+    border-color: #DA2C0C;
+    color: #FFF;
+    background-color: #DA2C0C;
+}
+
+.a4 {
+    color: #DA2C0C;
+}
+
+.autenticathed {
+    width: 140px;
+    margin-top: -30px;
+    margin-left: 39%;
+    font-weight: bold;
+}
+
+.footer {
+    margin: auto;
+    width: 100%;
+    height: 28px;
+    background-color: #070A12;
+    color: white;
+    border-top: 2px solid #000;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    font-family: verdana;       
+}
+
+.login {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+#sha{
+    max-width: 340px;
+    -webkit-box-shadow: 0px 0px 18px 0px rgba(48, 50, 50, 0.48);
+    -moz-box-shadow:    0px 0px 18px 0px rgba(48, 50, 50, 0.48);
+    box-shadow:         0px 0px 18px 0px rgba(48, 50, 50, 0.48);
+    border-radius: 6%;
+}
+
+#avatar{
+    width: 100px;
+    height: 100px;
+    margin: 0px auto 0px;
+    display: block;
+    border-radius: 10%;
+}
+
+.title {
+    color: #2456EB;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+}
+
+.title-purchase {
+    color: #87898e;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+}
+
+.title2 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+}
+
+.panel-home {
+    margin-top: 50px;
+}
+
+.bg-success {
+    background-color: #8BCF8B;
+    color: #024811;
+}
+
+.bg-error {
+    background-color: #E58989;
+    color: #2B0101;
+}
+
+.container-registro {
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 950px;
+    background-color: white;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.viewDetail {
+    cursor: pointer;
+}
+
+.color-black {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.supText {
+    color: green;
+    font-weight: bold;
+    font-size: 140%;
+}
+
+.colorRed {
+    color: red;
+}
+
+.colorCart {
+    color: #7A847A;
+    font-size: 30px;
+}
+
+.colorEyes {
+    color: #0B44E8;
+    font-size: 20px;
+}
+
+.oculto {
+    margin: auto;
+    margin-top: 10px;
+    width: 600px;
+    height: auto;
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    color: green;
+    font-size: 140%;
+    font-weight: bold;
+    border-radius: 10px;
+    display: none;
+}
+
+#resultLogin {
+    margin: auto;
+    margin-top: 21px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    background-color: #FCFFB2;
+    color: #1BD00A;
+    font-size: 140%;
+    font-weight: bold;
+    border-radius: 10px 10px 4px 4px;
+    display: none;
+}
+
+.border-buy {
+    border-color: #CADEFB;
+}
+
+.border-sale {
+    border-color: #334CB7;
+}
+
+.panel-buy {
+    background-color: #CADEFB;
+}
+
+.panel-cancel {
+    background-color: #CADEFB;   
+}
+
+.panel-buy2 {
+    background-color: #CCE5D8;
+}
+
+.panel-sale {
+    background-color: #334CB7;
+}
+
+.modal-top {
+    background-color: #64666F;
+    color: #FFF;
+}
+
+.modal-mediun {
+    background-color: #ECF1ED;
+    color: #190606;
+}
+
+.register-client {
+    background-color: #337AB7;
+    color: #FFF;
+}
+
+.manage-cancel {
+    background-color: #DC4949;
+    color: #FFF;
+}
+
+.colorWhite {
+    color: #FFF;
+}
+
+.colorGreen {
+    color: #0AC326;
+}
+
+.property-body {
+    padding-top: 0px;
+}
+
+.list {
+    overflow: auto;
+    height: 350px;
+    background-color: #F3F7F3;
+}
+
+.listBuyes {
+    overflow: auto;
+    height: 200px;
+    background-color: #F3F7F3;
+}
+
+.listPay {
+    overflow: auto;
+    height: 150px;
+    background-color: #F3F7F3;
+}
+
+.listReport {
+    overflow: auto;
+    height: 380px;
+    background-color: #F3F7F3;
+}
+
+.rowTop {
+    margin-top: -20px;
+}
+
+.messageError {
+    display: none;
+    height: 35px;
+    padding-bottom: 20px;
+}
+
+#showLoading {
+    display: none;
+}
+
+.merry {
+    color : #5C5A59;
+}
+
+.listBillState {
+    overflow: auto;
+    height: 270px;
+    background-color: #F3F7F3;
+}
+
+.tablePay {
+    display: none;
+}
+
+.colorPay {
+    font-size: 16px;
+    color: blue;
+}
+
+.colorEdit {
+    color: #F5901D;
+}
+
+.colorProduct {
+    color: #2207C0;
+}
+
+.colorNew {
+    font-size: 16px;
+    color: #DD0833;
+}
+
+.resultProcessCancel {
+    display: none;
+    color: #18B50D;
+    font-size: 1.2em;
+}
